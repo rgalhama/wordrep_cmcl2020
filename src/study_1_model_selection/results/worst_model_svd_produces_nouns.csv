@@ -1,0 +1,2 @@
+;model;del;dyn;pos;sub;thr;win;dim;neg;eig;neg.1;w+c;similarity_threshold;pearsonr;pearson_pval;absr
+157;svd;False;True;False;False;10;4;100;15;1;1;False;0.7;-0.0004;0.9941;0.0004
